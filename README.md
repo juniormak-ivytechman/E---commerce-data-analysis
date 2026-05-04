@@ -67,6 +67,7 @@ The analysis layer contains SQL scripts that generate business insights:
 - Clean Data (Google Drive): [Link](https://drive.google.com/drive/folders/14HQdex4_r-54ngn_vF29LpTA-e3Y_PJS?usp=sharing)
 - Power BI File: [Link](https://drive.google.com/drive/folders/1nt-Uo8YPSmHCNCRsQw5kaRbjwQO27nUo?usp=sharing)
 - Dashboard PDF: [Link](https://drive.google.com/drive/folders/12va5MX3SkIuchqEgbKQ5s7O7yAUWN83e?usp=sharing)
+- Documentation: [Link](https://drive.google.com/drive/folders/1mT1AgxVoMh1dlDHhggkt3BzIOfqLtls9?usp=sharing)
 
 ## Data Pipeline Flow
 
